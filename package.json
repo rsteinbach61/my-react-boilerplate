@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rsteinbach61/my-react-boilerplate/issues"
   },
-  "homepage": "https://github.com/rsteinbach61/my-react-boilerplate#readme"
+  "homepage": "https://github.com/rsteinbach61/my-react-boilerplate#readme",
+  "dependencies": {
+    "react-dom": "^16.7.0"
+  }
 }
